@@ -1,2 +1,2 @@
-# Trevel-Landing-Page
+# Trevel website
 ![t1](https://github.com/user-attachments/assets/6dd99dc5-357b-49bd-ae75-69ac97c73b6d)
